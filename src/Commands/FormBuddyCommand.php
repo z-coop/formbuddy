@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Z\FormBuddy\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FormBuddyCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'formbuddy';
 
     public $description = 'My command';
 
